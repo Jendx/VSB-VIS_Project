@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="DTO.Structs.Jednotka_NTFDTO">
+    <Position X="7" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAACAAAgAAgBAAAAAAAAAABAAAAgAAAAAAE=</HashCode>
+      <FileName>Classes\Jednotka_NTFDTO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DTO.Structs.SCP_ObjektDTO">
+    <Position X="8.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAACAAAIAAABAAAAAAAIAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\SCP_ObjektDTO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DTO.Structs.Spravce_OblastiDTO">
+    <Position X="4.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAACAAAEAAAAAABAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\Spravce_OblastiDTO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DTO.Structs.tridy_SCP_objektuDTO">
+    <Position X="8.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\tridy_SCP_objektuDTO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DTO.Structs.UctyDTO">
+    <Position X="7" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAACAAAAACAAAAAASAAIQAQAAgAAAAAAAEAA=</HashCode>
+      <FileName>Classes\UctyDTO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DTO.Structs.Vrchni_výzkumnikDTO">
+    <Position X="4.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\Vrchni_výzkumnikDTO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DTO.Structs.VyzkumnikDTO">
+    <Position X="4.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\VyzkumnikDTO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DTO.Structs.Zaznam_SCP_ObjektuDTO">
+    <Position X="8.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAAAAAAAAAAAAAABQAAIAAAAAAAAAAAAAgAA=</HashCode>
+      <FileName>Classes\Zaznam_SCP_ObjektuDTO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

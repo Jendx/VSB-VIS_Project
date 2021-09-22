@@ -1,0 +1,44 @@
+[
+  {
+    "seznamVV": [],
+    "seznamSCPO": [],
+    "pracovnici": [],
+    "vyzkumnickyTym_id": 0,
+    "vybraniVyzkumnici": [],
+    "vedec": {
+      "login": "bas135",
+      "heslo": "123456789",
+      "ID_pracovnika": 14,
+      "proverka": 10,
+      "pozice": "Spravce oblasti",
+      "jmeno": "Basil Vorzal",
+      "tym": "SCP-709-1",
+      "nadrizenyPracovnik_id": 13,
+      "nazevJednotky": "",
+      "prirazeneSCP": 709,
+      "cisloOblasti": 13
+    },
+    "SCPZaznam": {}
+  },
+  {
+    "seznamVV": [],
+    "seznamSCPO": [],
+    "pracovnici": [],
+    "vyzkumnickyTym_id": 0,
+    "vybraniVyzkumnici": [],
+    "vedec": {
+      "login": "BAR0642",
+      "heslo": "1234",
+      "ID_pracovnika": 64,
+      "proverka": 10,
+      "pozice": "Spravce oblasti",
+      "jmeno": "Jan Bartovi\u010D",
+      "tym": "SCP-079-1",
+      "nadrizenyPracovnik_id": 64,
+      "nazevJednotky": "",
+      "prirazeneSCP": 79,
+      "cisloOblasti": 19
+    },
+    "SCPZaznam": {}
+  }
+]
